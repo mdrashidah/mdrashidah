@@ -1,4 +1,8 @@
-## Hi there 👋
+<img width="1584" height="396" alt="Black and White Illustrative Manager LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/64c7bfb6-077a-418f-97cd-bddbf5228368" />
+
+## Hi there 👋, myself MD. Rashid Ali Haider
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+        A Passionate Learner with a strong intrest in Data Analytics, Prompt Engineering, Al-powered tools, Data Science and Machine Learning.
 
 <!--
 **mdrashidah/mdrashidah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -29,6 +29,11 @@ Feel Free to connect with me:
 
 ![Screenshot_9-10-2025_03022_gh-stats-gen vercel app](https://github.com/user-attachments/assets/deb37625-6b40-45ca-ac60-68367a078105)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![GitHub Repo stars](https://img.shields.io/github/stars/mdrashidah/:repo)
+
+
 <!--
 **mdrashidah/mdrashidah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

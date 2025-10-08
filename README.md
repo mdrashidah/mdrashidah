@@ -19,8 +19,11 @@ I'm actively seeking internships, live projects, and training opportunities in t
 
 Feel Free to connect with me:
 📧 rashidnrlbhilai@gmail.com
+
 🔗 https://www.linkedin.com/in/mdrashidah/
+
 🐱 https://github.com/mdrashidah/
+
 <!--
 **mdrashidah/mdrashidah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

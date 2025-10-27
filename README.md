@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Black and White Illustrative Manager LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/64c7bfb6-077a-418f-97cd-bddbf5228368" />
+![unnamed (2)](https://github.com/user-attachments/assets/b17d96cd-718a-4625-bb34-6d7a3f721479)
+
 
 ##                                                   ..Hi there 👋, myself MD. Rashid Ali Haider..
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

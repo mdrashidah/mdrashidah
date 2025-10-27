@@ -1,4 +1,5 @@
-![unnamed (2)](https://github.com/user-attachments/assets/b17d96cd-718a-4625-bb34-6d7a3f721479)
+![IMG_20251028_002028](https://github.com/user-attachments/assets/498c8e0f-190c-4784-a8d5-d8a6625fb3f9)
+
 
 
 ##                                                   ..Hi there 👋, myself MD. Rashid Ali Haider..

@@ -21,7 +21,7 @@ I love exploring how data can solve real-world problems and how well-crafted pro
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 LANGUAGES and Tools:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/dc37b75b-0993-47f8-83f0-c1c37d175ba4" />    <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/562d3d2d-3989-4fea-a688-2857f978a65a" />
+
 
 
 

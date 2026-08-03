@@ -36,13 +36,19 @@ I love exploring how data can solve real-world problems and how well-crafted pro
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Feel Free to connect with me:
+### 🌐 Feel Free to Connect With Me:
 
-📧 rashidnrlbhilai@gmail.com
-
-🔗 https://www.linkedin.com/in/mdrashidah/
-
-🐱 https://github.com/mdrashidah/
+<div align="center">
+  <a href="https://github.com/mdrashidah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://linkedin.com/in/mdrashidah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:rashidnrlbhilai@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -81,39 +87,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -----------
-### 📊 GitHub Stats & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdrashidah&show_icons=true&theme=radical&hide_border=true" alt="mdrashidah's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrashidah&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrashidah&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdrashidah&theme=radical&no-frame=true" alt="GitHub Trophies" />
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/mdrashidah" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://linkedin.com/in/mdrashidah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:rashidnrlbhilai@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
 
 ### 📈 Profile Visitors
 

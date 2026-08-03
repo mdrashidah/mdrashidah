@@ -4,16 +4,16 @@
 
 ##                                                   ..Hi there 👋, myself MD. Rashid Ali Haider..
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## A Passionate Learner with a strong interest in Data Analytics, Prompt Engineering, AI-powered tools, Data Science, and Machine Learning.
+## A Passionate Learner with a strong interest in A.I. Data Analytics, Prompt Engineering, AI-powered tools, Data Science, and Machine Learning.
 I love exploring how data can solve real-world problems and how well-crafted prompts can unlock the full potential of language models like ChatGPT.
 
-💻🧑🏻‍💻 Currently, I'm building my technical skills in:
+💻🧑🏻‍💻 Currently, I'm building my technical skills and projects in:
 
 1. Python and it's libraries like Pandas 🐼, Numpy, Matplotlib 📊 and Seaborn, SQL, Power BI, Excel 📊
 
 2. Prompt Engineering (ChatGPT, Gemini, Claude)
 
-3. Basic Machine Learning and AI workflows
+3. Machine Learning and AI workflows
 
 4. Data Visualization and Dashboard Design
 
@@ -46,13 +46,24 @@ Feel Free to connect with me:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Screenshot_9-10-2025_03022_gh-stats-gen vercel app](https://github.com/user-attachments/assets/deb37625-6b40-45ca-ac60-68367a078105)
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+### 📊 GitHub Stats & Metrics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdrashidah&show_icons=true&theme=radical&hide_border=true" alt="mdrashidah's GitHub Stats" />
+</div>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/mdrashidah/:repo)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrashidah&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrashidah&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdrashidah&theme=radical&no-frame=true" alt="GitHub Trophies" />
+</div>
 
 
 <!--

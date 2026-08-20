@@ -53,12 +53,13 @@ I love exploring how data can solve real-world problems and how well-crafted pro
 </div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+----
 ### 🌐 My Resume:
 
 <a href="https://github.com/mdrashidah/mdrashidah-resume/blob/main/mdrashidah-resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-PDF-1a365d?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" target="_blank" />
 </a>
+----
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📊 GitHub Stats & Metrics
 
